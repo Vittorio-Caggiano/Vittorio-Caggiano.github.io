@@ -88,7 +88,7 @@ author:
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Caggiano+V&cauthor_id=27734925"
   googlescholar    : "https://scholar.google.com/citations?user=lCt9zVkAAAAJ"
   email            : "caggiano@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Vittorio-Caggiano" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vittorio-caggiano-26b6a7b/"
   orcid            : "http://orcid.org/0000-0002-2186-1550"
   pinterest        :
   soundcloud       :
