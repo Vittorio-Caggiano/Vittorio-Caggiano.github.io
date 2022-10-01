@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a TPM and Researcher at FAIR at Meta AI. My scientific interests are in motor control and AI.
+I am a TPM and Researcher at FAIR, Meta AI. My scientific interests are in motor control and AI.
 
 Before joining Meta, I was a researcher and manager at IBM Research, USA. I have received a PhD from the University of Tuebingen, Germany and I have done postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden)
 
