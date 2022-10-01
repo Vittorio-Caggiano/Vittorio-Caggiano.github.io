@@ -35,7 +35,10 @@ table, td, th, tr {
       <td> <center> <img src="./images/myosuite_400x400.jpg" width="100" height="100"/> </center></td>
       <td><b>MyoSuite: An embodied AI platform that unifies neural and motor intelligence</b> <br> <u>Vittorio Caggiano</u>, Huawei Wang, Guillaume Durandau, Massimo Sartori, Vikash Kumar <br> <a target="_blank" href="https://tech.fb.com/artificial-intelligence/2022/05/myosuite/"><b>Meta Tech@ blog</b></a> | <a target="_blank" href="https://github.com/facebookresearch/myosuite"><b>code</b></a> </td>
     </tr>
-
+    <tr>
+      <td> <center> <img src="./images/MyoSim.jpg" width="200" /> </center></td>
+      <td><b>MyoSim: Fast and physiologically realistic MuJoCo models for musculoskeletal and exoskeletal studies</b> <br> Huawei Wang*,<u>Vittorio Caggiano*</u>,  Guillaume Durandau, Massimo Sartori, Vikash Kumar <br>  <a target="_blank" href="https://github.com/facebookresearch/myosuite"><b>code</b></a> </td>
+    </tr>
 
   <tr>
     <td><center> <img src="./images/xformers_logo.png" width="200" /> </center></td>
