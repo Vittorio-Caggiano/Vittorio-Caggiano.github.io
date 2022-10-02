@@ -11,7 +11,7 @@ redirect_from:
 
 I am a TPM and Researcher at FAIR, Meta AI. My scientific interests are in motor control and AI.
 
-Before joining Meta, I was a researcher and manager at IBM Research, USA. I have received a PhD from the University of Tuebingen, Germany and I have done postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden)
+Before joining Meta, I was a researcher and manager at IBM Research, USA. I received a PhD from the University of Tuebingen, Germany and I did postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden)
 
 
 
@@ -33,7 +33,7 @@ table, td, th, tr {
   <tbody>
     <tr>
       <td><img src="./images/challenge_tasks.png" width="200" height="100"/> </td>
-      <td><b>NeurIPS-MyoChallenge: Learning contact-rich manipulation using a musculoskeletal hand.</b> <br> <u>Vittorio Caggiano</u>, Huawei Wang, Guillaume Durandau, Seungmoon Song, Yuval Tassa, , Massimo Sartori, Vikash Kumar <br> <a target="_blank" href="https://tech.fb.com/artificial-intelligence/2022/05/myosuite/"><b>Challenge website</b></a>  | <a target="_blank" href="https://github.com/facebookresearch/myosuite"><b><i class="fa fa-twitter"></i>Twitter</b></a> </td>
+      <td><b>NeurIPS-MyoChallenge: Learning contact-rich manipulation using a musculoskeletal hand.</b> <br> <u>Vittorio Caggiano</u>, Huawei Wang, Guillaume Durandau, Seungmoon Song, Yuval Tassa, , Massimo Sartori, Vikash Kumar <br> <a target="_blank" href="https://tech.fb.com/artificial-intelligence/2022/05/myosuite/"><b>Challenge website</b></a>  | <a target="_blank" href="https://twitter.com/MyoChallenge"><b><i class="fa fa-twitter"></i>Twitter</b></a> </td>
     </tr>
     <tr>
       <td> <center> <img src="./images/myosuite_400x400.jpg" width="100" height="100"/> </center></td>
