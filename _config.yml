@@ -85,10 +85,10 @@ author:
   bio              : "TPM and Researcher at Meta AI"
   location         : "New York, NY"
   # employer         : "Meta AI"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Caggiano+V&cauthor_id=27734925"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Caggiano+V&cauthor_id=27734925"
   googlescholar    : "https://scholar.google.com/citations?user=lCt9zVkAAAAJ"
   email            : "caggiano@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Vittorio-Caggiano" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # "https://www.researchgate.net/profile/Vittorio-Caggiano" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "vittorio-caggiano-26b6a7b"
-  orcid            : "http://orcid.org/0000-0002-2186-1550"
+  orcid            : # "http://orcid.org/0000-0002-2186-1550"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

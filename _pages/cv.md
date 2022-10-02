@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-You can donwload my CV <u><a href="https://vittorio-caggiano.github.com/Resume_Caggiano_April2022.pdf">here</a></u>
+You can donwload my CV <u><a href="../Resume_Caggiano_April2022.pdf">here</a></u>
 <br/>
 
-<embed src="https://vittorio-caggiano.github.com/Resume_Caggiano_April2022.pdf" type="application/pdf" width="100%" />
+<embed src="../Resume_Caggiano_April2022.pdf" type="application/pdf" width="100%" />
