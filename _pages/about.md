@@ -27,13 +27,26 @@ table, td, th, tr {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
+<h2> 2023 </h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./images/myosuite_demo.png" width="200" /> </td>
+      <td><b>MyoSuite Web Demo:
+      An interactive demonstration of the Musculoskeletal Models of the MyoSuite framework.</b>
+      <br> <u>Vittorio Caggiano</u>, Vikash Kumar
+      <br> <a target="_blank" href="https://myohub.github.io/myosuite_demo/"><b>MyoSuite Demo</b></a>  | <a target="_blank" href="https://github.com/MyoHub/myosuite_demo"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+  </tbody>
+</table>
 <h2> 2022 </h2>
 <table>
   <tbody>
     <tr>
       <td><img src="./images/challenge_tasks.png" width="200" height="100"/> </td>
-      <td><b>NeurIPS-MyoChallenge: Learning contact-rich manipulation using a musculoskeletal hand.</b> <br> <u>Vittorio Caggiano</u>, Huawei Wang, Guillaume Durandau, Seungmoon Song, Yuval Tassa, , Massimo Sartori, Vikash Kumar <br> <a target="_blank" href="https://tech.fb.com/artificial-intelligence/2022/05/myosuite/"><b>Challenge website</b></a>  | <a target="_blank" href="https://twitter.com/MyoChallenge"><b><i class="fa fa-twitter"></i>Twitter</b></a> </td>
+      <td><b>NeurIPS-MyoChallenge: Learning contact-rich manipulation using a musculoskeletal hand.</b>
+      <br> <u>Vittorio Caggiano</u>, Huawei Wang, Guillaume Durandau, Seungmoon Song, Yuval Tassa, , Massimo Sartori, Vikash Kumar
+      <br> <a target="_blank" href="https://sites.google.com/view/myochallenge"><b>Challenge website</b></a>  | <a target="_blank" href="https://twitter.com/MyoChallenge"><b><i class="fa fa-twitter"></i>Twitter</b></a> </td>
     </tr>
     <tr>
       <td> <center> <img src="./images/myosuite_400x400.jpg" width="100" height="100"/> </center></td>
