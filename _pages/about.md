@@ -31,12 +31,31 @@ table, td, th, tr {
 <table>
   <tbody>
     <tr>
+      <td><img src="./images/myochallenge2023.png" width="200" /> </td>
+      <td><b>NeurIPS-MyoChallenge 23 -- Towards Human-Level Dexterity and Agility.</b>
+      <br> <u>Vittorio Caggiano</u>, et al
+      <br> <a target="_blank" href="https://sites.google.com/view/myosuite/myochallenge/myochallenge-2023"><b>Website</b></a>  | <a target="_blank" href="https://github.com/MyoHub/myoChallenge2023Eval"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+    <tr>
+      <td><img src="./images/myodex.png" width="200" /> </td>
+      <td><b>MyoDex: A Generalizable Prior for Dexterous Manipulation</b>
+      <br> <u>Vittorio Caggiano</u>, Sudeep Dasari, Vikash Kumar
+      <br> <a target="_blank" href="https://sites.google.com/view/myodex"><b>Webside</b></a>  | <a target="_blank" href="https://github.com/facebookresearch/myosuite"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+    <tr>
+      <td><img src="./images/sar.png" width="200" /> </td>
+      <td><b>SAR: Generalization of Physiological Dexterity via Synergistic Action Representation</b>
+      <br> Cameron Berg, <u>Vittorio Caggiano</u>, Vikash Kumar
+      <br> <a target="_blank" href="https://sites.google.com/view/sar-rl/"><b>Website</b></a>  | <a target="_blank" href="https://arxiv.org/abs/2307.03716"><b><i class="fa fa-github"></i> Publication </b></a> | <a target="_blank" href="https://github.com/facebookresearch/myosuite"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+    <tr>
       <td><img src="./images/myosuite_demo.png" width="200" /> </td>
       <td><b>MyoSuite Web Demo:
       An interactive demonstration of the Musculoskeletal Models of the MyoSuite framework.</b>
       <br> <u>Vittorio Caggiano</u>, Vikash Kumar
       <br> <a target="_blank" href="https://myohub.github.io/myosuite_demo/"><b>MyoSuite Demo</b></a>  | <a target="_blank" href="https://github.com/MyoHub/myosuite_demo"><b><i class="fa fa-github"></i> code</b></a>  </td>
     </tr>
+
   </tbody>
 </table>
 <h2> 2022 </h2>
