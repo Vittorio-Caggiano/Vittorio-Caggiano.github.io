@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I've spent quite a few years diving deep into the fascinating worlds of neuroscience and artificial intelligence, both in academia and industry. My main passion is to understand the neural principle of how our brains and spinal cord coordinate movement. By exploring these intricate mechanisms, I aim to enhance our understanding movements of both healthy and diseased individuals and to pioneer innovative technologies that improve lives.
 
-I am a TPM and Researcher at FAIR, Meta AI. My scientific interests are in motor control, neuroscience and AI.
+I have been a technical program manager and researcher at Meta AI where I supported several large and impactful projects such as FairScale and xFormers, EgoExo and MyoSuite. Before that, I was a researcher, sr. manager and strategist at IBM Research, USA.
 
-Before joining Meta, I was a researcher and manager at IBM Research, USA. I received a PhD from the University of Tuebingen, Germany and I did postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden)
-
+I received a PhD from the University of Tuebingen, Germany and I did postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden).
 
 
 Highlights
-======
+==========
 
 
 <style>
@@ -27,6 +27,17 @@ table, td, th, tr {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+<h2> 2024 </h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./images/myochallenge2024.png" width="200" /> </td>
+      <td><b>NeurIPS-MyoChallenge 24 -- Physiological Dexterity and Agility in Bionic Humans</b>
+      <br> <u>Vittorio Caggiano</u>, et al
+      <br> <a target="_blank" href="https://sites.google.com/view/myosuite/myochallenge/myochallenge-2024"><b>Website</b></a>  | <a target="_blank" href="https://github.com/MyoHub/myosuite"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+  </tbody>
+</table>
 <h2> 2023 </h2>
 <table>
   <tbody>
