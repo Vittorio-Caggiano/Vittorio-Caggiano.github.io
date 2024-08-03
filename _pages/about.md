@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I've spent quite a few years diving deep into the fascinating worlds of neuroscience and artificial intelligence, both in academia and industry. My main passion is to understand the neural principle of how our brains and spinal cord coordinate movement. By exploring these intricate mechanisms, I aim to enhance our understanding movements of both healthy and diseased individuals and to pioneer innovative technologies that improve lives.
+I've spent quite a few years diving deep into the fascinating worlds of neuroscience and artificial intelligence, both in academia and industry. My main passion is to understand the neural principle of how our brains and spinal cord coordinate movement. By exploring these intricate mechanisms, I aim to enhance our understanding movements of both healthy and diseased individuals and to pioneer innovative technologies that improve lives.
 
 During my experience in industry, I was at Meta AI as a technical program manager and researcher.  There I supported several large and impactful projects such as FairScale and xFormers, EgoExo and MyoSuite. Before that, at IBM Research, I was a researcher, sr. manager and a strategist.
 
