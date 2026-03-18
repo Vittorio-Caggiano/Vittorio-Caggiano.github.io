@@ -6,10 +6,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-header:
-  # Tunable hero background for a more modern look (edit in this file)
-  overlay_image: vittorio_caggiano.jpg
-  overlay_color: "rgba(15, 23, 42, 0.62)"
 ---
 
 I am CTO & Co-Founder of [MyoLab](https://myolab.ai), where I build AI systems for modeling and learning complex motor behavior.
