@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+header:
+  # Tunable hero background for a more modern look (edit in this file)
+  overlay_image: vittorio_caggiano.jpg
+  overlay_color: "rgba(15, 23, 42, 0.62)"
 ---
 
 I am CTO & Co-Founder of [MyoLab](https://myolab.ai), where I build AI systems for modeling and learning complex motor behavior.
@@ -33,8 +37,6 @@ table, td, th, tr {
    border: none!important;
 }
 </style>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <h2> 2025 </h2>
 <table>
@@ -150,11 +152,3 @@ table, td, th, tr {
 
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D6NWDNVM4Y"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-D6NWDNVM4Y');
-</script>
