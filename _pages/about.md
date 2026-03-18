@@ -1,23 +1,32 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "I build embodied AI systems grounded in neuroscience"
+excerpt: "I build embodied AI systems grounded in neuroscience"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I've been exploring the fascinating worlds of neuroscience and artificial intelligence, both in academia and industry. My main passion is to understand the neural principle of how our brains and spinal cord coordinate movement. By exploring these intricate mechanisms, I aim to enhance our understanding movements of both healthy and diseased individuals and to pioneer innovative technologies that improve lives.
+I am CTO & Co-Founder of [MyoLab](https://myolab.ai), where I build AI systems for modeling and learning complex motor behavior.
 
-During my experience in industry, I was at Meta AI as a technical program manager and researcher.  There I supported several large and impactful projects such as FairScale and xFormers, EgoExo and MyoSuite. Before that, at IBM Research, I was a researcher, sr. manager and a strategist.
+Previously, I led AI programs at Meta AI (FairScale, xFormers, MyoSuite) and directed interdisciplinary teams at IBM Research, working across machine learning systems and embodied intelligence.
 
-I received a PhD from the University of Tuebingen, Germany and I did postdoctoral work both at the MIT (USA) and the Karolinska Institute (Sweden).
+My work spans first-author publications in *Nature, Science, and Cell* and the development of scalable systems that translate research into real-world applications.
 
+*I build AI systems for learning and control, informed by biological intelligence.*
 
-Highlights
-==========
+## Selected Impact
 
+- CTO & Co-Founder, MyoLab
+- Led AI programs at Meta AI — *FairScale, xFormers, MyoSuite*
+- Co-developed *MyoSuite*
+- Directed 30+ person teams at IBM Research
+- First-author publications in *Nature, Science, Cell*
+
+## Selected Work & Projects
+
+Below is a selection of projects, benchmarks, and community efforts across embodied AI, machine learning systems, and neuroscience.
 
 <style>
 table, td, th, tr {
@@ -26,6 +35,18 @@ table, td, th, tr {
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<h2> 2025 </h2>
+<table>
+  <tbody>
+    <tr>
+      <td><img src="./images/mc25.png" width="200" /> </td>
+      <td><b>NeurIPS-MyoChallenge 25 -- Towards Human Athletic Intelligence</b>
+      <br> <u>Vittorio Caggiano</u>, et al
+      <br> <a target="_blank" href="https://sites.google.com/view/myosuite/myochallenge/myochallenge-2025"><b>Website</b></a>  | <a target="_blank" href="https://github.com/MyoHub/myosuite"><b><i class="fa fa-github"></i> code</b></a>  </td>
+    </tr>
+  </tbody>
+</table>
 
 <h2> 2024 </h2>
 <table>
