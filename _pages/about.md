@@ -1,32 +1,24 @@
 ---
 permalink: /
-title: "I build embodied AI systems grounded in neuroscience"
-excerpt: "I build embodied AI systems grounded in neuroscience"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am CTO & Co-Founder of [MyoLab](https://myolab.ai), where I build AI systems for modeling and learning complex motor behavior.
+I build embodied AI systems grounded in neuroscience, with a focus on how the brain and body coordinate movement.
 
-Previously, I led AI programs at Meta AI (FairScale, xFormers, MyoSuite) and directed interdisciplinary teams at IBM Research, working across machine learning systems and embodied intelligence.
+I am CTO & Co-Founder of MyoLab, where I develop models for learning and controlling complex motor behavior.
 
-My work spans first-author publications in *Nature, Science, and Cell* and the development of scalable systems that translate research into real-world applications.
+Previously, I led AI programs at Meta AI ([FairScale](https://github.com/facebookresearch/fairscale), [xFormers](https://github.com/facebookresearch/xformers), [MyoSuite](https://github.com/MyoHub/myosuite)) and directed interdisciplinary teams at IBM Research, working across machine learning systems and embodied intelligence.
 
-*I build AI systems for learning and control, informed by biological intelligence.*
-
-## Selected Impact
-
-- CTO & Co-Founder, MyoLab
-- Led AI programs at Meta AI — *FairScale, xFormers, MyoSuite*
-- Co-developed *MyoSuite*
-- Directed 30+ person teams at IBM Research
-- First-author publications in *Nature, Science, Cell*
+My work includes first-author publications in the most prestigious science journal (*Nature*, *Science*, *Cell*) and machine learning conference (*NeurIPS*, *ICML*), as well as building scalable systems that bring research into real-world use.
 
 ## Selected Work & Projects
+A selection of projects, benchmarks, and community efforts across embodied AI, machine learning systems, and neuroscience.
 
-Below is a selection of projects, benchmarks, and community efforts across embodied AI, machine learning systems, and neuroscience.
 
 <style>
 table, td, th, tr {
