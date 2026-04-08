@@ -47,7 +47,7 @@ analytics:
 # Site Author
 author:
   name             : "Vittorio Caggiano"
-  avatar           : "images/vittorio_caggiano.jpg"
+  avatar           : "vittorio_caggiano.jpg"
   bio              : "Founder & CTO, MyoLab · Embodied AI · Agentic Systems · Large-Scale ML"
   location         : "New York, NY"
   employer         : "MyoLab"
