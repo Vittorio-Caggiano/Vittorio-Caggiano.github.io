@@ -17,7 +17,7 @@ At **[MyoLab](https://myolab.ai)**, I'm developing next-generation embodied AI m
 
 In parallel, I build autonomous RL research systems where agents propose hypotheses, run training, interpret results, and iterate without human intervention.
 
-Applications span robotics, sports performance, clinical rehabilitation, and health.
+Applications span sports performance, clinical rehabilitation, and health.
 
 I am also an Adjunct Lecturer at **Harvard Medical School** and **Spaulding Rehabilitation Hospital**, and an Adjunct at **King's College London**.
 
