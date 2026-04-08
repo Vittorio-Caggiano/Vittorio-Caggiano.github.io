@@ -8,17 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I build embodied AI systems grounded in neuroscience, with a focus on how the brain and body coordinate movement.
+Founder and CTO with a rare full-stack profile across **frontier AI research, systems engineering, and organizational leadership**. At Meta AI, led the development and launch of foundational open-source infrastructure -- [FairScale](https://github.com/facebookresearch/fairscale) and [xFormers](https://github.com/facebookresearch/xformers), (as TPM) and [MyoSuite](https://github.com/MyoHub/myosuite) (as researcher and technical lead) -- now totaling 15k+ GitHub stars and 125M+ downloads. Previously led 30+ person cross-functional teams at IBM Research, and published first-author in *Nature*, *Science*, *Cell*, *NeurIPS*, *ICML*.
+Now applying this experience to the current inflection in agentic and embodied AI at [MyoLab](https://myolab.ai).
 
-I am CTO & Co-Founder of MyoLab, where I develop models for learning and controlling complex motor behavior.
+## Currently building
 
-Previously, I led AI programs at Meta AI ([FairScale](https://github.com/facebookresearch/fairscale), [xFormers](https://github.com/facebookresearch/xformers), [MyoSuite](https://github.com/MyoHub/myosuite)) and directed interdisciplinary teams at IBM Research, working across machine learning systems and embodied intelligence.
+At **[MyoLab](https://myolab.ai)**, I'm developing next-generation embodied AI models for human motor control.
 
-My work includes first-author publications in the most prestigious science journal (*Nature*, *Science*, *Cell*) and machine learning conference (*NeurIPS*, *ICML*), as well as building scalable systems that bring research into real-world use.
+In parallel, I build autonomous RL research systems where agents propose hypotheses, run training, interpret results, and iterate without human intervention.
+
+Applications span robotics, sports performance, clinical rehabilitation, and health.
+
+I am also an Adjunct Lecturer at **Harvard Medical School** and **Spaulding Rehabilitation Hospital**, and an Adjunct at **King's College London**.
+
+## Background
+
+During my experience in industry, I was at **Meta AI** as a technical program manager (TPM) and researcher. There I supported several large and impactful projects such as *FairScale* and *xFormers*, *EgoExo* and *MyoSuite*. Before that, at **IBM Research**, I was a researcher, senior manager, and strategist leading a cross-functional team of 30+ developers, designers, and project managers to translate emerging research into prototypes, MVPs, and production systems, and co-leading the Global Technology Outlook (GTO).
+
+My scientific background is in neuroscience and motor control. I hold a Ph.D. from the International Max Planck Research School at the University of Tübingen (*summa cum laude*), and conducted postdoctoral research at the Karolinska Institutet and MIT's McGovern Institute for Brain Research. My work has been published in *Nature*, *Science*, *Cell*, *NeurIPS*, *ICML*, and *ICRA*, with a total citation impact factor > 300 (lead-author IF > 200).
 
 ## Selected Work & Projects
-A selection of projects, benchmarks, and community efforts across embodied AI, machine learning systems, and neuroscience.
 
+A selection of projects, benchmarks, and community efforts across embodied AI, machine learning systems, and neuroscience.
 
 <style>
 table, td, th, tr {

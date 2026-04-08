@@ -1,55 +1,20 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Vittorio Caggiano"
 title_separator          : "-"
 name                     : &name "Vittorio Caggiano"
-description              : &description "personal description"
-url                      : https://vittorio-caggiano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : vittorio-caggiano/vittorio-caggiano.github.io # "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+description              : &description "Founder & CTO · Embodied AI · Agentic Systems · Large-Scale ML"
+url                      : https://vittorio-caggiano.github.io
+baseurl                  : ""
+repository               : "Vittorio-Caggiano/Vittorio-Caggiano.github.io"
+teaser                   :
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "wpage" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+read_more                : "disabled"
+talkmap_link             : false
 
-# SEO Related
+# SEO
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
@@ -57,19 +22,20 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "caggianovitt"
+  username               : &twitter "CaggianoVitt"
 facebook:
-  username               : vittorio.caggiano.7
+  username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+og_image                 : "images/vittorio_caggiano.jpg"
 
+social:
+  type                   : Person
+  name                   : *name
+  links:
+    - "https://twitter.com/CaggianoVitt"
+    - "https://www.linkedin.com/in/vittorio-caggiano-26b6a7b"
+    - "https://github.com/Vittorio-Caggiano"
 
 # Analytics
 analytics:
@@ -81,14 +47,14 @@ analytics:
 # Site Author
 author:
   name             : "Vittorio Caggiano"
-  avatar           : "vittorio_caggiano.jpg"
-  bio              : "CTO & Co-Founder of MyoLab, Adjunct at Harvard Medical School and Spaulding Rehabilitation Hospital"
+  avatar           : "images/vittorio_caggiano.jpg"
+  bio              : "Founder & CTO, MyoLab · Embodied AI · Agentic Systems · Large-Scale ML"
   location         : "New York, NY"
   employer         : "MyoLab"
-  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Caggiano+V&cauthor_id=27734925"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=lCt9zVkAAAAJ"
   email            : "caggiano@gmail.com"
-  researchgate     :  # "https://www.researchgate.net/profile/Vittorio-Caggiano" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,22 +66,21 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "vittorio-caggiano-26b6a7b"
-  orcid            : # "http://orcid.org/0000-0002-2186-1550"
+  orcid            : "https://orcid.org/0000-0002-2186-1550"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : "CaggianoVitt"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-
 
 # Reading Files
 include:
@@ -127,23 +92,24 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -152,14 +118,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -171,7 +135,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -187,7 +150,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -248,63 +210,34 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/New_York
 
 # Plugins
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+
 whitelist:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
-
+  - jekyll-redirect-from
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
